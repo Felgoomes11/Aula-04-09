@@ -1,0 +1,32 @@
+form{
+    margin: 70px 0px 0px 500px; /* Espaçamento das margens no topo e nas laterais */
+    width: 500px; /*Altura*/
+    text-align: left; /*Alinhamento do texto*/
+}
+
+label{
+    display: block; /*Quebra de linha */
+    margin: 10px 10px 10px 0; /* Espaçamento das margens */
+}
+
+input{
+    display: block; /*Quebra de linha */
+    height: 30px; /* altura do campo */
+}
+
+body{
+    background-color: rgb(47, 177, 42); /*Cor do fundo*/
+    color: aliceblue; /*Cor da fonte*/
+}
+
+.btn {
+    background-color: #3882c7; /*Cor de fundo*/
+    color: #fff; /*Cor de do testo*/
+    text-align: center; /*Alinhamento*/
+    cursor: pointer; /*Maoznha quando passa o mouse*/
+    border-radius: 10px; /*arredondamento da borda*/
+    width: 120px; /*largura do botão*/
+    font-weight: bold; /*fonte em negrito*/
+    border: none; /*Sem borda*/
+    padding: 10px 15px; /*Largura e altura interna */
+    font-size: 1em; /*tamanho da fonte */}
